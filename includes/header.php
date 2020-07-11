@@ -49,7 +49,7 @@ $description = "Bienvenue dans le site de Action Mephibochet";
         <header>
             <div class="main">
                 <div class="logo">
-                    <a href="#"><img class="pl-5" src="img/ActionMephi.png" width="250px" height="50px" alt=""></a>
+                    <a href="#"><img class="pl-5 mt-2 logo_rond" src="img/ActionMephi_logo.jpeg" width="200px" height="100px" alt="logo action mephi"></a>
                 </div>
                 <ul class="float-right mt-3"> 
                     <li class="active"><a href="#" class="active">Home</a></li>
