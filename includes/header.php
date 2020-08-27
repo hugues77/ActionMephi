@@ -38,9 +38,9 @@ $description = "Bienvenue dans le site de Action Mephibochet";
                             <a class="mel" href="mailto:info@actionmephi.com"><i class="fas fa-envelope-open-text mr-2"></i>info@actionmephi.com</a>
                         </div>
                         <div class="col-xs-4 col-md-4 col-lg-4">
-                            <form class="form-inline my-2 my-lg-0 heure">
-                                <button class="horange text-light my-2 my-sm-0" type="submit"><i class="fas fa-hand-holding-heart mr-2"></i> JE FAIS UN DON</button>
-                            </form>
+                            <div class="form-inline my-2 my-lg-0 heure">
+                                <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8NB3BBAVYTUGE&source=url"><button class="horange text-light my-2 my-sm-0" ><i class="fas fa-hand-holding-heart mr-2"></i> JE FAIS UN DON</button></a>
+                            </div>
                         </div>
                     </div>
                 </div>
