@@ -13,10 +13,11 @@
 
         <!-- Content -->
         <h5 class="font-weight-bold text-uppercase mb-4 text-justify">Action Mephibochet</h5>
-        <p class="text-justify">Here you can use rows and columns to organize your footer content.<br>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit amet numquam iure provident voluptate
-          esse
-          quasi, veritatis totam voluptas nostrum.</p>
+        <div class="bg-dark">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d321684.1042741471!2d6.68713298448027!3d50.95780025453803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf259169ab2fe5%3A0x42760fc4a2a77f0!2sCologne%2C%20Allemagne!5e0!3m2!1sfr!2sfr!4v1600287327745!5m2!1sfr!2sfr" 
+          width="350" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+        </iframe>
+        </div>
 
       </div>
 
@@ -74,7 +75,7 @@
           </li>
           <li>
             <p>
-              <a href="#!">FAIRE UN DON</a>
+              <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8NB3BBAVYTUGE&source=url">FAIRE UN DON</a>
             </p>
           </li>
           <li>

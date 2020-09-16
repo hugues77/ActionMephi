@@ -21,7 +21,7 @@ $description = "Bienvenue dans le site de Action Mephibochet";
         
     <div class="fixed-top">    
         <div class="container-fluid ">
-            <div class="row bg-footer p-1">
+            <div class="row bg-footer p-1 fixed-top mb-5">
                 <div class="col-xs-5 col-md-5 col-lg-5">
                     <a href=""><img src="img/facebook.png" width="35px" height="" alt=""></a>
                     <a href=""><img src="img/instagram.png" width="35px" height="" alt=""></a>
@@ -46,8 +46,10 @@ $description = "Bienvenue dans le site de Action Mephibochet";
                 </div>
             </div>
         </div>
-        <header>
-            <div class="main">
+    </div>
+    <div>
+        <header class="">
+            <div class="main mt-5">
                 <div class="logo">
                     <a href="#"><img class="pl-5 mt-2 logo_rond" src="img/ActionMephi_logo.jpeg" width="200px" height="100px" alt="logo action mephi"></a>
                 </div>
@@ -61,8 +63,9 @@ $description = "Bienvenue dans le site de Action Mephibochet";
             </div>
             <div class="titre">
                 <strong><h1 class="">ACTION MEPHIBOCHET</h1></strong>
-                <p class="text-light descript">Bienvenue dans le site Officiel de ACtion Mephi, retrouvez l'ensemble de nos informations au travers notre plateforme;
-                    Vous pouvez aussi nous écrire et/ou nous venir en aide via nos differents liens respectifs. Bonne navigation !
+                <p class="text-light descript">
+                    Une association a pour but non- lucratif de ayant pour mission de  
+                    Venir en aide aux personnes vivant avec un handicap et leurs enfants, aux orphelins, et les défendre contre la discrimination qui  sigmatise au sein de la société de l’Europe et en Afrique
                 </p>
                 <div class="row">
                     <div class="col-md-6">
