@@ -33,19 +33,19 @@
 
         <ul class="list-unstyled">
           <li>
-            <p>
+            <p class="descript">
             <i class="fas fa-home"></i> Cologne, Köln 50667, DE</p>
           </li>
           <li>
-            <p>
+            <p class="descript">
             <i class="fas fa-envelope-open-text"></i> info@actionmephi.com</p>
           </li>
           <li>
-            <p>
+            <p class="descript">
             <i class="fas fa-phone-alt"></i> +49 221 98 62 50 80</p>
           </li>
           <li>
-            <p>
+            <p class="descript">
             <i class="fab fa-whatsapp"></i>+ 49 1 60 96 32 97 04</p>
           </li>
         </ul>
@@ -65,22 +65,22 @@
         <ul class="list-unstyled">
           <li>
             <p>
-              <a href="#!">PROJETS</a>
+              <a class="descript" href="#!">PROJETS</a>
+            </p>
+          </li>
+          <li>
+            <p class="descript">
+              <a class="descript" href="#!">A PROPOS</a>
             </p>
           </li>
           <li>
             <p>
-              <a href="#!">A PROPOS</a>
+              <a class="descript" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8NB3BBAVYTUGE&source=url">FAIRE UN DON</a>
             </p>
           </li>
           <li>
-            <p>
-              <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8NB3BBAVYTUGE&source=url">FAIRE UN DON</a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href="#!">CONTACT</a>
+            <p class="descript">
+              <a class="descript" href="#!">CONTACT</a>
             </p>
           </li>
         </ul>

@@ -164,6 +164,14 @@ ul li.active a {
     border-radius: 30px 30px 30px 30px;
 }
 
+.actua {
+    margin-top: 10%;
+}
+
+.bouton_tete a {
+    text-decoration: none;
+}
+
 
 /* p {
     font-family: 'Quicksand', sans-serif;

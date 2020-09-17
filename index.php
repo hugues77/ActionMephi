@@ -1,6 +1,6 @@
 <?php
 require_once 'includes/header.php'; ?>
-<section class="horange">
+<section class="horange"  id="propos">
     <div class="container">
         <h1>A propos</h1>   
             <p class="text-justify text-light descript">
@@ -30,5 +30,63 @@ require_once 'includes/header.php'; ?>
                 </div>
             </div>       
     </div>   
+</section>
+<section class="bg-info">
+    <div class="container">
+        <h1 class="">Actualités au sein d'Action Mephi</h1>
+        <div class="row">
+            <div class="col-md-6">
+                <img class="filtre mt-4" src="img/mephi_actualite.jpg" class="img-thumbnail mb-2" width="100%" height="110%" alt="">
+            </div>
+            <div class="col-md-6 actua">
+                <p class="text-justify ">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex porro voluptas nobis veniam ipsam earum ut amet iste nam, optio, velit assumenda accusamus officiis. Voluptates in perspiciatis modi aspernatur excepturi.
+                </p>
+                <div class="row mt-4 mb-3">
+                    <div class="col-md-8 offset-2">
+                        <a href="#" class="btn btn-outline-light btn-lg btn-block"><i class="fas fa-plus mr-2"></i>Plus d-infos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="horange">
+    <div class="container">
+        <h1 class="mt-4">Action Mephi en Images</h1>
+        <div class="row">
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+            <div class="col-md-3">
+                <img class="filtre mt-1" src="img/ikebaali.jpg" class="img-thumbnail mb-2" width="100%" alt="action mephi">
+            </div>
+        </div>
+        <div class="row mt-4 mb-3">
+            <div class="col-md-4 offset-4">
+                <a href="#" class="btn btn-outline-info btn-lg btn-block"><i class="fas fa-plus mr-2"></i>Voir plus</a>
+            </div>
+        </div>
+    </div>
 </section>
 <?php require_once 'includes/footer.php';

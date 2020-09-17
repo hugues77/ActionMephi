@@ -23,11 +23,11 @@ $description = "Bienvenue dans le site de Action Mephibochet";
         <div class="container-fluid ">
             <div class="row bg-footer p-1 fixed-top mb-5">
                 <div class="col-xs-5 col-md-5 col-lg-5">
-                    <a href=""><img src="img/facebook.png" width="35px" height="" alt=""></a>
-                    <a href=""><img src="img/instagram.png" width="35px" height="" alt=""></a>
+                    <a href="https://www.facebook.com/actionmephi" target="_blank"><img src="img/facebook.png" width="35px" height="" alt=""></a>
+                    <a href="https://www.instagram.com/actionmephi/" target="_blank"><img src="img/instagram.png" width="35px" height="" alt=""></a>
                     <a href=""><img src="img/twitter.png" width="35px" height="" alt=""></a>
                     <a href=""><img src="img/google.png" width="35px" height="" alt=""></a>
-                    <a href=""><img src="img/youtube.png" width="35px" height="" alt=""></a>
+                    <a href="https://www.youtube.com/channel/UCbqxQkC-l38nyTflksQLvhQ/about?view_as=subscriber" target="_blank"><img src="img/youtube.png" width="35px" height="" alt=""></a>
                 </div>
                 <div class="col-xs-7 col-md-7 col-lg-7 text-light float-right ">
                     <div class="row ">
@@ -54,11 +54,11 @@ $description = "Bienvenue dans le site de Action Mephibochet";
                     <a href="#"><img class="pl-5 mt-2 logo_rond" src="img/ActionMephi_logo.jpeg" width="200px" height="100px" alt="logo action mephi"></a>
                 </div>
                 <ul class="float-right mt-3"> 
-                    <li class="active"><a href="#" class="active">Home</a></li>
-                    <li class=""><a href="#">A propos</a></li>
+                    <li class="active"><a href="index.php" class="active">Home</a></li>
+                    <li class=""><a href="#propos">A propos</a></li>
                     <li class=""><a href="#">Medias/Gallery</a></li>
                     <li class=""><a href="#">Projet</a></li>
-                    <li class=""> <a href="#">Contact</a></li>
+                    <li class=""> <a href="contact.php">Contact</a></li>
                 </ul>
             </div>
             <div class="titre">
@@ -69,10 +69,10 @@ $description = "Bienvenue dans le site de Action Mephibochet";
                 </p>
                 <div class="row">
                     <div class="col-md-6">
-                        <button class="btn btn-danger btn-block">Nous Sommes</button>
+                        <a href="#propos" class="btn btn-danger btn-block">Nous Sommes</a>
                     </div>
                     <div class="col-md-6">
-                        <button class="btn btn-outline-info btn-block">Nous Contactez</button>
+                        <a href="contact.php" class="btn btn-outline-info btn-block">Nous Contactez</a>
                     </div>
                 </div>
             </div>
