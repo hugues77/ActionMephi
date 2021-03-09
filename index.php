@@ -1,9 +1,9 @@
 <?php
 
 session_start();
-require_once 'functions/functions.php';
-require_once 'admin/function/login.func.php';
-require_once 'functions/main.php';
+//require_once 'functions/functions.php';
+//require_once 'admin/function/login.func.php';
+//require_once 'functions/main.php';
 require_once 'includes/header.php';
 
 
@@ -27,9 +27,6 @@ if($url ===''){
 }
 elseif($url[0] ==='login'){
     require 'pages/login.php';
-}
-elseif($url[0] ==='inscription'){
-    require 'pages/register.php';
 }
 elseif($url[0] ==='admin' && $url[1] =='login'){
     require 'admin/pages/login.php';

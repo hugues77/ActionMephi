@@ -1,16 +1,15 @@
-<div class="container form-login">
+<div class="container margin_nav">
     <div class="row">
         <div class="col-md-6 offset-2">
             <h1 class="text-left mt-5 error_titre font-weight-bold"><strong>Oups !</strong></h1>
             <h1 class="text-left">
                 La page que vous récherchez semble introuvable.
             </h1>
-            <p class="text-danger font-weight-bold">Code d'erreur: 404</p>
+            <p class="text-danger font-weight-bold">Code d'erreur: 404</p><br>
             <div>Voici quelques liens utiles à la place: <br>
                 <i class="fas fa-long-arrow-alt-right"></i><a href="/" class="text-decoration-none ms-2">Page d'accueil</a><br>
-                <i class="fas fa-long-arrow-alt-right"></i><a href="/login" class="text-decoration-none ms-2">Nous contacter</a><br>
-                <i class="fas fa-long-arrow-alt-right"></i><a href="/login" class="text-decoration-none ms-2">Se connecter</a><br>
-                <i class="fas fa-long-arrow-alt-right"></i><a href="/inscription" class="text-decoration-none ms-2">S'inscrire</a>
+                <i class="fas fa-long-arrow-alt-right"></i><a href="nous-contacter" class="text-decoration-none ms-2">Nous contacter</a><br>
+                
             </div>
         </div>
         <div class="col-md-4">

@@ -33,8 +33,8 @@
 
         <ul class="list-unstyled">
           <li>
-            <p class="descript">
-            <i class="fas fa-home"></i> Cologne, Köln 50667, DE</p>
+            <span class="descript">
+            <i class="fas fa-home"></i> Cologne, DE</span>
           </li>
           <li>
             <p class="descript">
@@ -109,8 +109,8 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center bg-footer py-3">© 2020 Copyright:
-    <a href="https://api.whatsapp.com/send?phone=33651294692&text=&source=&data=">
+  <div class="footer-copyright text-center bg-footer py-3">© 2021 Copyright:
+    <a href="http://www.softhandy.fr/">
         <strong class="text-light"> Softhandy.fr</strong>
     </a>
   </div>

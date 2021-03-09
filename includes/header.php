@@ -17,12 +17,12 @@ $description = "Bienvenue dans le site de Action Mephibochet";
   <script src="https://kit.fontawesome.com/bdf8dcd65d.js"></script>
   
 </head>
-<body>
-        
+<body>    
     <div class="fixed-top">    
         <div class="container-fluid ">
             <div class="row bg-footer p-1 fixed-top mb-5">
                 <div class="col-xs-5 col-md-5 col-lg-5">
+                    <a href="/"><img class=" me-5 ms-5 logo_rond" src="img/logo1.png" width="" height="40px" alt="logo action mephi"></a>
                     <a href="https://www.facebook.com/actionmephi" target="_blank"><img src="img/facebook.png" width="35px" height="" alt=""></a>
                     <a href="https://www.instagram.com/actionmephi/" target="_blank"><img src="img/instagram.png" width="35px" height="" alt=""></a>
                     <a href=""><img src="img/twitter.png" width="35px" height="" alt=""></a>
@@ -47,35 +47,5 @@ $description = "Bienvenue dans le site de Action Mephibochet";
             </div>
         </div>
     </div>
-    <div>
-        <header class="">
-            <div class="main mt-5">
-                <div class="logo">
-                    <a href="#"><img class="pl-5 mt-2 logo_rond" src="img/ActionMephi_logo.jpeg" width="200px" height="100px" alt="logo action mephi"></a>
-                </div>
-                <ul class="float-right mt-3"> 
-                    <li class="active"><a href="index.php" class="active">Home</a></li>
-                    <li class=""><a href="#propos">A propos</a></li>
-                    <li class=""><a href="#">Medias/Gallery</a></li>
-                    <li class=""><a href="#">Projet</a></li>
-                    <li class=""> <a href="contact.php">Contact</a></li>
-                </ul>
-            </div>
-            <div class="titre">
-                <strong><h1 class="">ACTION MEPHIBOCHET</h1></strong>
-                <p class="text-light descript">
-                    Une association a pour but non- lucratif de ayant pour mission de  
-                    Venir en aide aux personnes vivant avec un handicap et leurs enfants, aux orphelins, et les défendre contre la discrimination qui  sigmatise au sein de la société de l’Europe et en Afrique
-                </p>
-                <div class="row">
-                    <div class="col-md-6">
-                        <a href="#propos" class="btn btn-danger btn-block">Nous Sommes</a>
-                    </div>
-                    <div class="col-md-6">
-                        <a href="contact.php" class="btn btn-outline-info btn-block">Nous Contactez</a>
-                    </div>
-                </div>
-            </div>
-        </header>
-    </div>
+  
 

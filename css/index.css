@@ -172,6 +172,21 @@ ul li.active a {
     text-decoration: none;
 }
 
+/* style photo nos valeurs Associations*/
+.photo_valeur{
+    width: 100%;
+    clip-path: circle(50% at 50% 50%);
+}
+.image_mephi{
+    margin-top: 70px;
+}
+.margin_nav{
+    margin-top: 48px;
+}
+.error_titre {
+    font-size: 8em;
+}
+
 
 /* p {
     font-family: 'Quicksand', sans-serif;
